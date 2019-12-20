@@ -1,0 +1,26 @@
+{
+  "rules": {
+    "messageCount": {
+      ".read": true
+    },
+    "roomsCount": {
+      ".read": true
+    },
+    "chats": {
+      "$room_id": {
+        ".read": "data.child('members').hasChild(auth.uid)"
+      }
+    },
+    "users": {
+      "$user_id": {
+        ".write": "auth.uid == $user_id",
+        ".read": "auth != null"
+      }
+    },
+    "users_chats_ids": {
+      "$user_id": {
+        ".read": "auth.uid == $user_id"
+      }
+    }
+  }
+}

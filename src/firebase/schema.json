@@ -1,0 +1,78 @@
+{
+  "messagesCount": 1,
+  "count": 1,
+  "users": {
+    "AcoTonzaz0ZrtXybp1a3MAW6TR52": {
+      "name": "Sarah cutie"
+    },
+    "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2": {
+      "name": "Amoodaa"
+    }
+  },
+  "users_chats_ids": {
+    "AcoTonzaz0ZrtXybp1a3MAW6TR52": {
+      "-LwY4NjJAXL5pcF7Ajbj": true
+    },
+    "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2": {
+      "-LwY4NjJAXL5pcF7Ajbj": true
+    }
+  },
+  "chats": {
+    "-LwY4NjJAXL5pcF7Ajbj": {
+      "metadata": {
+        "title": "ok something",
+        "lastMessage": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832611
+        }
+      },
+      "members": {
+        "AcoTonzaz0ZrtXybp1a3MAW6TR52": true,
+        "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2": true
+      },
+      "messages": {
+        "msgId": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832611
+        },
+        "msgId2": {
+          "sender": "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832611
+        },
+        "msgId3": {
+          "sender": "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832611
+        },
+        "msgId4": {
+          "sender": "S0zCWg9yG7QVpDjeaDgXJ8hY6HO2",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832629
+        },
+        "msgId5": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832650
+        },
+        "msgId6": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832746
+        },
+        "msgId7": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832842
+        },
+        "msgId8": {
+          "sender": "AcoTonzaz0ZrtXybp1a3MAW6TR52",
+          "content": "sajsdlkajsdlkaj",
+          "timestamp": 1576839832953
+        }
+      }
+    }
+  }
+}
